@@ -243,7 +243,8 @@ The course covered how operating systems work, how to use Linux and the Bash com
 
 ## About me
 
-**Ahmad Mujtaba**, tech student from Lahore, Pakistan, working through the Google Cybersecurity Certificate.
+**Ahmad Mujtaba**, 
+CS Student @ UET Lahore | Aspiring Cybersecurity & AI Engineer
 
-- LinkedIn: [add your link here]
-- Course certificate: [Tools of the Trade: Linux and SQL](https://coursera.org/verify/F21TAS58K3SN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ahmad-mujtaba648)
