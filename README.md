@@ -248,3 +248,4 @@ CS Student @ UET Lahore | Aspiring Cybersecurity & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ahmad-mujtaba648)
+[![Tools of the Trade: Linux and SQL](https://img.shields.io/badge/Tools_of_the_Trade-Linux_and_SQL-4285F4?style=flat&logo=coursera&logoColor=white)](https://coursera.org/verify/F21TAS58K3SN)
